@@ -22,3 +22,24 @@ A complete command-line **Python expense tracker** built with OOP principles, mo
 3. Run:
    ```bash
    python main.py
+
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/Screenshot 2026-02-05 215146.png)
+
+### Adding an Expense
+![Add Expense](screenshots/Screenshot 2026-02-05 215427.png)
+
+### View All Expenses / Category Summary
+![View Expenses](screenshots/Screenshot 2026-02-05 215714.png)
+
+### Monthly Report
+![Monthly Report](screenshots/Screenshot 2026-02-05 220025.png)
+
+### CSV File with Data
+![Expenses CSV](screenshots/Screenshot 2026-02-05 220547.png)
+
+### Another View (optional)
+![Extra View](screenshots/Screenshot 2026-02-05 220731.png)
