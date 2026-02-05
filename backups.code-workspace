@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../personal_finance_manager/backups"
+		},
+		{
+			"path": "../personal_finance_manager/data"
+		},
+		{
+			"path": "../personal_finance_manager/src"
+		}
+	]
+}

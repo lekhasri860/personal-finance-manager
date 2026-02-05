@@ -1,0 +1,10 @@
+# requirements.txt
+
+# This project uses ONLY Python's built-in standard library.
+# No external packages or pip installations are required.
+
+# (Modules used: csv, datetime, os, shutil, collections, sys)
+
+# Optional: If you later add charts (matplotlib) or other features, you can add:
+# matplotlib>=3.8.0
+# But for the current version: nothing needed!
